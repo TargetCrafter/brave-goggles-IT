@@ -4,5 +4,9 @@
 ! author: TargetCrafter
 ! avatar: #00a4ef
 
+$discard
 $site=docs.microsoft.com,boost=4
 $site=techcommunity.microsoft.com,boost=3
+$site=reddit.com
+$site=stackoverflow.com
+$site=youtube.com
