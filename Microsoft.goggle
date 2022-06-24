@@ -1,0 +1,9 @@
+! name: Microsoft
+! description: Boost microsoft documentation and forums for users and managers of Microsoft products like Microsoft 365 or Azure.
+! public: false
+! author: TargetCrafter
+! avatar: #00a4ef
+
+$discard
+$site=docs.microsoft.com,boost=3
+$site=techcommunity.microsoft.com,boost=2
